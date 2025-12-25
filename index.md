@@ -33,5 +33,5 @@ Our research group is dedicated to designing robust data pipelines and intellige
 
 ### Contact
 
-- <em>Email:</em> zak at etdu.edu.et  
+- <em>Email:</em> <b>zak.coe@etdu.edu.et </b> 
 - <em>Office:</em> Room 7458, NO.2 Interdisciplinary Building, Ethiopian Defence University, Ethiopia
