@@ -4,27 +4,70 @@ title: Projects
 permalink: /projects/
 ---
 
-
-  
 ### Recent Projects
 
-#### 1. LIAN（莲花）: Intelligent code security analysis [source code: [GITEE](https://gitee.com/fdu-ssr/lian), [GITHUB](https://github.com/yang-guangliang/lian)]
+#### 1. SmartData: Scalable Data Engineering Platform
 
-LIAN is a next-generation static analysis platform that enables deep semantic understanding of code across multiple programming languages, including C, LLVM IR, Java, Python, JavaScript, PHP, TypeScript, Go, Rust MIR, and ArkTS. By unifying diverse languages into a common General Intermediate Representation (GIR), LIAN supports a rich set of precision-oriented analyses:
+SmartData is a unified platform for processing and analyzing large-scale structured and unstructured datasets. It combines distributed data pipelines, real-time streaming, and cloud-based storage to provide robust, AI-ready data infrastructure for research and operational applications.
 
-  - control flow analysis
-  - call tree reconstruction
-  - Context-, field-, and flow-sensitive program state analysis
-  - Precise data flow and taint tracking for vulnerability detection
-  - Seamless integration with AI LLMs
+Key features:
 
+- Scalable ETL pipelines and data transformation workflows  
+- Real-time analytics and anomaly detection  
+- Data quality monitoring and governance  
+- Seamless integration with AI and machine learning models  
 
-#### 2. YIAN（易安）: Memory-safe language design and implementation
+#### 2. Advanced IntelliPredict: AI-Powered Predictive Analytics System
 
-YIAN rethinks systems programming by guaranteeing complete memory safety, without relying on the *unsafe* escape hatches and garbage collection. Built on a novel pointer model, YIAN enforces spatial and temporal memory safety while preserving low-level control and performance. 
+Advanced IntelliPredict is a high-performance predictive analytics platform designed for complex, data-intensive decision-making. Leveraging deep learning, ensemble modeling, and large-scale data integration, it generates accurate forecasts and optimizes strategies across multiple domains.
 
-YIAN targets safety-critical domains such as operating systems, embedded firmware, and secure AI runtimes, where reliability cannot be compromised by errors and bugs.
+Core capabilities:
 
-#### 3. QING: High-performance AI system stack for RISC-V
+- Multi-source data integration and preprocessing  
+- Time-series analysis and deep learning forecasting  
+- Real-time predictive analytics dashboards  
+- AI-driven decision support for industrial, scientific, and operational applications  
 
-QING is a full-stack hardware-aware AI computing framework co-designed with the YIAN language to enable efficient, safe, and portable AI workloads on RISC-V architectures. QING eliminates the abstraction gap between high-level AI models and heterogeneous hardware. Currently targeting RISC-V, QING's architecture is designed for extensibility. Future versions will support cross-architecture portability and emerging AI accelerators.
+#### 3. DeepVision: High-Performance AI for Image and Video Analytics
+
+DeepVision is an end-to-end AI system stack for large-scale visual data analysis. It enables tasks such as object detection, pattern recognition, and predictive analytics with hardware-aware optimization for both server and cloud environments.
+
+Highlights:
+
+- Efficient deep learning architectures for high-throughput data  
+- Cross-platform deployment and extensibility  
+- Real-time inference for research, industrial, and surveillance applications  
+- Integration with intelligent decision support systems  
+
+#### 4. NeuroGraph: Graph-Based AI for Complex Network Analysis
+
+NeuroGraph is a graph neural network platform for analyzing complex relational data. It is designed for applications in social networks, logistics, and communication systems, enabling predictive modeling of interactions and dependencies.
+
+Key features:
+
+- Graph representation and embedding learning  
+- Network anomaly and trend detection  
+- Dynamic prediction of network events  
+- Scalable to millions of nodes and edges  
+
+#### 5. AutoML-Factory: Automated Machine Learning Platform
+
+AutoML-Factory provides end-to-end automation of AI model design, training, and deployment. It allows researchers and engineers to quickly experiment with multiple algorithms and hyperparameter settings, accelerating AI development.
+
+Highlights:
+
+- Automated model selection and hyperparameter tuning  
+- Pre-built pipelines for classification, regression, and clustering  
+- Model evaluation dashboards and deployment integration  
+- Supports multi-domain datasets including text, tabular, and image  
+
+#### 6. AI-EdgeSense: Intelligent Edge Computing Framework
+
+AI-EdgeSense is an AI system for deploying machine learning models on edge devices with limited computational resources. It enables low-latency inference and real-time analytics for IoT, industrial monitoring, and smart city applications.
+
+Core capabilities:
+
+- Lightweight, hardware-aware AI models  
+- Real-time sensor data processing and decision-making  
+- Edge-cloud hybrid deployment for scalability  
+- Fault-tolerant and adaptive performance optimization  
