@@ -4,16 +4,25 @@ title: people
 permalink: /people/
 ---
 
-### Current Graduate Students
+Students
 
-- Abel Tadesse, MS student
-- Hana Bekele, MS student
-- Samuel Alemu, MS student
-- Meron Desta, MS student
-- Dawit Tekle, MS student
-- Selamawit Kassa, MS student
-- Yared Fikru, MS student
-- Eden Getachew, MS student
+###PhD Students:
+
+- Mekonnen Abebe (2024-)
+- Selamawit Tesfaye (2025-)
+
+### Master Students:
+
+- Dawit Bekele (2024-)
+- Hana Tadesse (2024-)
+- Samuel Alemu (2024-)
+- Meron Desta (2024-)
+- Yared Fikru (2024-)
+
+### Undergraduate Students:
+
+- Eden Getachew (2025-)
+- Abel Tsegaye (2025-)
 
 ### Alumni
 
