@@ -3,26 +3,30 @@ layout: default
 title: home
 ---
 
+<img width="150px" style="float:right; margin-left:80px; margin-top:20px;" src="./pictures/self.jpg">
 
-<img width="150px"  style="float:right; margin-left:80px;margin-top:20px;" src="./pictures/self.jpg">
+I am a Full Professor in the School of Computer Science at Ethiopian Defence University, where I lead the Data Engineering and Artificial Intelligence Research Group. My academic and professional work focuses on building scalable, intelligent, and data-driven systems that support national development, security, and innovation.
 
+My research and teaching span data engineering, artificial intelligence, and applied machine learning, with a strong emphasis on real-world systems, reliability, and ethical deployment. I have supervised undergraduate and postgraduate research, led multidisciplinary projects, and contributed to both academic and applied research initiatives within the university and beyond.
 
-I am an assistant professor in the School of Computer Science at Fudan University, where I lead the System Security & Reliability ([SSR](https://gitee.com/fudan-csr)) research group. Prior to joining Fudan in 2021, I earned my PhD from Texas A&M University and subsequently conducted postdoctoral research at Georgia Tech. 
+Our research group is dedicated to designing robust data pipelines and intelligent systems that transform large-scale data into actionable insight. Core research areas include:
 
-Our research at SSR is dedicated to constructing and advancing secure and reliable computing systems by addressing foundational challenges in the design, implementation, and verification of modern hardware-software co-designed computation. Key areas include:
+- Data Engineering Systems  
+  - Large-scale data processing and analytics  
+  - Distributed data architectures and cloud-based platforms  
+  - Data quality, governance, and security  
 
-- High-Performance Safe Programming
-   - Memory-safe programming language
-   - Language-level abstractions for hardware interaction
-- Reliable Computing Systems
-   - End-to-end AI system stacks
-   - System-level optimization and acceleration
-- Security Vetting and Assurance
-   - Formal methods for code analysis
-   - Integration of static analysis with AI-driven techniques
-   - Vulnerability detection against real-world large-scale systems
+- Artificial Intelligence and Machine Learning  
+  - Applied machine learning and deep learning  
+  - AI-driven decision support systems  
+  - Natural language processing and intelligent information retrieval  
+
+- AI for Security and Societal Impact  
+  - AI-enabled threat and anomaly detection  
+  - Misinformation and rumor detection systems  
+  - Responsible and trustworthy AI deployment  
 
 ### Contact
 
-- <em>Email:</em> yanggl at fudan.edu.cn
-- <em>Office:</em> Room D6013, NO.2 Interdisciplinary Building, Fudan JiangWan Campus, Shanghai
+- <em>Email:</em> zak at etdu.edu.et  
+- <em>Office:</em> College of Engineering, Ethiopian Defence University
