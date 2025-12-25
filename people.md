@@ -6,7 +6,7 @@ permalink: /people/
 <h6 style="font-size: 28px; text-decoration: underline; text-align: center;">Students</h6>
 ### PhD Students:
 
-- Mekonnen Abebe (2024-)
+- Mekonnen Abebe (2023-)
 - Selamawit Tesfaye (2022-)
 
 ### Master Students:
