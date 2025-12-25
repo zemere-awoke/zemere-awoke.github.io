@@ -4,9 +4,9 @@ title: people
 permalink: /people/
 ---
 
-Students
+###### Students
 
-###PhD Students:
+### PhD Students:
 
 - Mekonnen Abebe (2024-)
 - Selamawit Tesfaye (2025-)
