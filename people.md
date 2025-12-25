@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 ---
 
-###### Students
+<h6 style="font-size: 24px;">Students</h6>
 
 ### PhD Students:
 
