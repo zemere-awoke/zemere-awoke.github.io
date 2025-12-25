@@ -4,8 +4,7 @@ title: people
 permalink: /people/
 ---
 
-<h6 style="font-size: 24px;">Students</h6>
-
+<h6 style="font-size: 24px; text-decoration: underline;">Students</h6>
 ### PhD Students:
 
 - Mekonnen Abebe (2024-)
