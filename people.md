@@ -6,17 +6,17 @@ permalink: /people/
 
 ### Current Graduate Students
 
-- Ruining Gao, MS student
-- Aohan Mei, MS student
-- Xiaozhen Xu, MS student
-- Haoxiang Zhang, MS student
-- Yi Wang, MS student
-- Can Li, MS student
-- Xinming Guo, MS student
-- Yangshuo Bai, MS student
+- Abel Tadesse, MS student
+- Hana Bekele, MS student
+- Samuel Alemu, MS student
+- Meron Desta, MS student
+- Dawit Tekle, MS student
+- Selamawit Kassa, MS student
+- Yared Fikru, MS student
+- Eden Getachew, MS student
 
 ### Alumni
 
-- Zhihe Yin, MS student (2025, First employment: Huawei)
-- Yanxiao Zhai, MS student (2025, First employment: Jiangsu Yinhang)
-- Congcong Zhang, MS student (2025, First employment: Huawei)
+- Solomon Abebe, MS student (2018, First employment: Ethio Telecom)
+- Rahel Mengistu, MS student (2020, First employment: Commercial Bank of Ethiopia)
+- Kidus Alemayehu, MS student (2023, First employment: Ethiopian Airlines)
