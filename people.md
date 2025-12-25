@@ -14,8 +14,6 @@ permalink: /people/
 - Dawit Bekele (2024-)
 - Hana Tadesse (2024-)
 - Samuel Alemu (2024-)
-- Meron Desta (2024-)
-- Yared Fikru (2024-)
 
 ### Undergraduate Students:
 
