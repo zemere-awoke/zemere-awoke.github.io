@@ -7,7 +7,7 @@ permalink: /people/
 ### PhD Students:
 
 - Mekonnen Abebe (2024-)
-- Selamawit Tesfaye (2025-)
+- Selamawit Tesfaye (2022-)
 
 ### Master Students:
 
