@@ -23,7 +23,6 @@ Our research group is dedicated to designing robust data pipelines and intellige
 
 - AI for Security and Societal Impact  
   - AI-enabled threat and anomaly detection  
-  - Misinformation and rumor detection systems  
   - Responsible and trustworthy AI deployment  
 
 ### Contact
