@@ -3,7 +3,6 @@ layout: default
 title: people
 permalink: /people/
 ---
-
 <h6 style="font-size: 28px; text-decoration: underline; text-align: center;">Students</h6>
 ### PhD Students:
 
