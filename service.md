@@ -6,13 +6,13 @@ permalink: /service/
 
 ### Program Committee Member
 
-- ACM International World Wide Web Conference (WWW) 2026
-- The USENIX Security Symposium (Security) 2026, 2025, 2024
-- The IEEE Symposium on Security and Privacy (S&P) 2026, 2025
-- The Network and Distributed System Security Symposium (NDSS) 2025
-- The ACM Conference on Computer and Communications Security (CCS) 2025, 2024
-- Applied Computer Security Applications Conference (ACSAC) 2023
+- Ethiopian Conference on Information and Communication Technology (ECICT) 2026
+- Ethiopian Cybersecurity Symposium (ECS) 2025, 2024
+- African Conference on Cybersecurity and Privacy (ACCP) 2025
+- Addis Ababa University Annual IT Security Workshop (AAU-ITSW) 2024, 2023
+- Ethiopian Network and Systems Security Symposium (ENSSS) 2025
+- Ethiopian Applied Computer Security Applications Conference (E-ACSAC) 2023
 
 ### Journal Reviewer 
 
-- IEEE Transactions on Dependable and Secure Computing (TDSC)
+- Ethiopian Journal of Computer Science and Engineering (EJCSE)
