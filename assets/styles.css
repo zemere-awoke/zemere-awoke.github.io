@@ -1,0 +1,106 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Base styles for main - applicable for mobile devices */
+main {
+    width: 100%; /* Full width on mobile devices */
+    margin: 20px ; /* Adjust margin as needed */
+    /* Additional styling for main content... */
+}
+
+/* CSS styles for larger screens */
+@media screen and (min-width: 768px) { /* Adjust the breakpoint as needed */
+    main {
+        width: 70%; /* 80% width on larger screens */
+        margin: 20px auto; /* Centered with auto margins */
+        max-width: 1200px; /* Optional: Limit the maximum width */
+        /* Additional styling for larger screens... */
+     }
+}
+
+@media screen and (max-width: 767px) {
+    nav {
+        width: 180%;
+    }
+    main {
+        width: 95%;
+    }
+}
+
+/* h1, h2, h3, h4 {
+    line-height: 1.4; 
+    margin-bottom: -10px;
+} */
+
+p {
+    margin-bottom: 1em; /* Space between paragraphs */
+    line-height: 1.4;
+}
+
+li {
+    line-height: 1.4; /* This will make the line height 1.5 times the font size */  
+}
+
+ul {
+    margin-left: -10pt;
+}
+
+div.special-text {
+   line-height: 1.8;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black; /* Background color set to black */
+    padding: 10px 20px;
+    flex-wrap: nowrap; /* Prevent wrapping */
+}
+
+nav a {
+    color: #F5F5F5; /* Grey-white color for links */
+    text-decoration: none; /* Optional: Removes underline from links */
+}
+
+.nav-left, .nav-right {
+    display: flex;
+    align-items: center;
+}
+
+.nav-left a {
+    /* color: #333;  */
+    text-decoration: none;
+    white-space: nowrap; /* Prevent wrapping of text */
+}
+
+.nav-right ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-right ul li {
+    margin-left: 20px;
+}
+
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: black;
+    margin-top: 0;
+}
+
+/* table {
+  border-collapse: collapse;
+  width: 100%;
+} */
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+}
