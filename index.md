@@ -29,4 +29,4 @@ Our research group is dedicated to designing robust data pipelines and intellige
 ### Contact
 
 - <em>Email:</em> zak at etdu.edu.et  
-- <em>Office:</em> College of Engineering, Ethiopian Defence University
+- <em>Office:</em> Room 7458, NO.2 Interdisciplinary Building, Ethiopian Defence University, Ethiopia
