@@ -25,6 +25,12 @@ Our research group is dedicated to designing robust data pipelines and intellige
   - AI-enabled threat and anomaly detection  
   - Responsible and trustworthy AI deployment  
 
+### Background
+
+- [1995.9 ~ 2000.6] Ethiopian Defence University, Department of Computer Science & Engineering, B.Tech
+- [2002.9 ~ 2007.9] Addis Ababa University, School of Computer Science, Ph.D.
+- [2015.7 ~ now] Ethiopian Defence University, Department of Computer Science & Engineering, Professor
+
 ### Contact
 
 - <em>Email:</em> zak at etdu.edu.et  
