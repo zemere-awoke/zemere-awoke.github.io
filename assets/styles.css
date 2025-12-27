@@ -22,7 +22,7 @@ main {
 
 @media screen and (max-width: 767px) {
     nav {
-        width: 180%;
+        width: 100%;
     }
     main {
         width: 95%;
