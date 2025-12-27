@@ -1,79 +1,33 @@
+/* RESET AND BASE STYLES */
 html, body {
     margin: 0;
     padding: 0;
+    font-family: Arial, sans-serif; /* Added for professional look */
 }
 
-/* Base styles for main - applicable for mobile devices */
-main {
-    width: 100%; /* Full width on mobile devices */
-    margin: 20px ; /* Adjust margin as needed */
-    /* Additional styling for main content... */
-}
-
-/* CSS styles for larger screens */
-@media screen and (min-width: 768px) { /* Adjust the breakpoint as needed */
-    main {
-        width: 70%; /* 80% width on larger screens */
-        margin: 20px auto; /* Centered with auto margins */
-        max-width: 1200px; /* Optional: Limit the maximum width */
-        /* Additional styling for larger screens... */
-     }
-}
-
-@media screen and (max-width: 767px) {
-    nav {
-        width: 100%;
-    }
-    main {
-        width: 95%;
-    }
-}
-
-/* h1, h2, h3, h4 {
-    line-height: 1.4; 
-    margin-bottom: -10px;
-} */
-
-p {
-    margin-bottom: 1em; /* Space between paragraphs */
-    line-height: 1.4;
-}
-
-li {
-    line-height: 1.4; /* This will make the line height 1.5 times the font size */  
-}
-
-ul {
-    margin-left: -10pt;
-}
-
-div.special-text {
-   line-height: 1.8;
-}
-
+/* NAVIGATION STYLES */
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: black; /* Background color set to black */
-    padding: 10px 20px;
-    flex-wrap: nowrap; /* Prevent wrapping */
+    background: black;
+    padding: 15px 20px;
 }
 
 nav a {
-    color: #F5F5F5; /* Grey-white color for links */
-    text-decoration: none; /* Optional: Removes underline from links */
+    color: #F5F5F5;
+    text-decoration: none;
+    font-weight: 500;
 }
 
-.nav-left, .nav-right {
+.nav-left {
     display: flex;
     align-items: center;
 }
 
 .nav-left a {
-    /* color: #333;  */
-    text-decoration: none;
-    white-space: nowrap; /* Prevent wrapping of text */
+    white-space: nowrap;
+    font-size: 1.2rem;
 }
 
 .nav-right ul {
@@ -87,20 +41,70 @@ nav a {
     margin-left: 20px;
 }
 
+/* MAIN CONTENT STYLES */
+main {
+    width: 90%;
+    margin: 20px auto;
+}
+
+p, li {
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+ul {
+    margin-left: 20px;
+}
 
 hr {
     border: none;
     height: 1px;
-    background-color: black;
-    margin-top: 0;
+    background-color: #ccc;
+    margin: 20px 0;
 }
 
-/* table {
-  border-collapse: collapse;
-  width: 100%;
-} */
-
+/* TABLE STYLES */
 th, td {
-  border: 1px solid black;
-  padding: 8px;
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+/* RESPONSIVE DESIGN */
+
+/* Large Screens (Desktop) */
+@media screen and (min-width: 768px) {
+    main {
+        width: 70%;
+        max-width: 1200px;
+    }
+}
+
+/* Small Screens (Mobile) */
+@media screen and (max-width: 767px) {
+    nav {
+        flex-direction: column; /* Stacks items vertically */
+        width: 100%;            /* Fits screen perfectly */
+        padding: 15px 0;
+        text-align: center;
+    }
+
+    .nav-right {
+        width: 100%;
+        margin-top: 15px;      /* Space between logo and links */
+    }
+
+    .nav-right ul {
+        flex-direction: column; /* Stack links vertically */
+        width: 100%;
+    }
+
+    .nav-right ul li {
+        margin: 10px 0;         /* Vertical spacing for thumb-tapping */
+    }
+
+    main {
+        width: 92%;
+        margin: 15px auto;
+    }
 }
