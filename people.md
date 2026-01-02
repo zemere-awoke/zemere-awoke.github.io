@@ -26,7 +26,7 @@ permalink: /people/
 - Hana Teshome, MS student (2018, First employment: United Nations Ethiopia)
 - Rahel Mengistu, MS student (2020, First employment: Commercial Bank of Ethiopia)
 - Bereket Desta, BS student (2020, First employment: Dashen Bank)
-- Ephrem Gemechu, BS student (2021, First employment: AZ Cybersecurity Solutions & Software Development)
+- Ephrem Gemechu, BS student (2021, First employment: Yekolo Temari)
 - Solomon Birhanu, MS student (2022, First employment: Ethio Telecom)
 - Aster Bekele, BS student (2022, First employment: St. Mary’s University)
 - Kidus Alemayehu, MS student (2023, First employment: Ethiopian Airlines)
