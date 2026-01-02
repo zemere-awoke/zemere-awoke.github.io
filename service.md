@@ -4,15 +4,16 @@ title: Service
 permalink: /service/
 ---
 
-### Program Committee Member
+### Program Committee & Technical Reviewer  
+*(Ethiopia – Data Engineering, Analytics & AI)*
 
-- Ethiopian Conference on Information and Communication Technology (ECICT) 2026
-- Ethiopian Cybersecurity Symposium (ECS) 2025, 2024
-- African Conference on Cybersecurity and Privacy (ACCP) 2025
-- Addis Ababa University Annual IT Security Workshop (AAU-ITSW) 2024, 2023
-- Ethiopian Network and Systems Security Symposium (ENSSS) 2025
-- Ethiopian Applied Computer Security Applications Conference (E-ACSAC) 2023
+- Future Tech Addis / Future Tech Expo (Addis Ababa) – Technology & innovation forum. {index=10}   
+- AI, Data & Cybersecurity Roadshow – Ethiopia (Addis Ababa) – Integrated AI & data event.   
+- International AI in Data Science & Deep Learning Conference (Dessie, 2026) – Academic data science and deep learning.
+- International Conference on AI & Machine Learning in Big Data Systems (Addis Ababa, 2026). 
+- Computational Science & Engineering Society of Ethiopia (CSESE) Congress – Data science & computing.   
 
-### Journal Reviewer 
+### Community & Professional Engagement (Ethiopian Tech Landscape)
 
-- Ethiopian Journal of Computer Science and Engineering (EJCSE)
+- Ethiopian Data Science & Machine Learning Community – Local professional network.
+- Iceaddis Tech Hub – Support and mentoring for tech startups and innovation.
